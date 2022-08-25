@@ -11,35 +11,35 @@ export default {
     components: { JobList },
       data: () => ({ jobList:[{
     name:"furniture",
-    svg:"../svg/car-back-side-seats-icon.svg"
+    svg:"./svg/car-back-side-seats-icon.svg"
 },
 {
   name:"property",
-  svg:"../svg/analytics-icon.svg"
+  svg:"./svg/homepage-icon.svg"
 },
 {
   name:"travel",
-  svg:"../svg/analytics-icon.svg"
+  svg:"./svg/plane-landing-icon.svg"
 },
 {
   name:"boat",
-  svg:"../svg/analytics-icon.svg"
+  svg:"./svg/warship-icon.svg"
 },
 {
   name:"mc",
-  svg:"../svg/analytics-icon.svg"
+  svg:"./svg/kick-scooter-icon.svg"
 },
 {
   name:"job",
-  svg:"../svg/analytics-icon.svg"
+  svg:"./svg/corporate-icon.svg"
 },
 {
   name:"economy",
-  svg:"../svg/analytics-icon.svg"
+  svg:"./svg/analytics-icon.svg"
 },
 {
   name:"holiday",
-  svg:"../svg/analytics-icon.svg"
+  svg:"./svg/car-back-side-seats-icon.svg"
 }
   ],
   data:""
